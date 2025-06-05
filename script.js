@@ -16,7 +16,6 @@ const questions = [
     correctIndex: 1,
     explanation: "Verbo transitivo exige complemento para completar sentido."
   },
- const questions = [
   // Direito Constitucional (25)
   {
     text: "Qual é a principal função do Poder Judiciário?",
@@ -1264,7 +1263,6 @@ const questions = [
     correctIndex: 0,
     explanation: "Juscelino Kubitschek foi presidente com o Plano de Metas."
   }
-]
 ];
 
 let currentQuestionIndex = 0;
